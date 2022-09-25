@@ -1,0 +1,13 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - master
+    schedule:
+      - cron: '0 */6 * * *'
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest

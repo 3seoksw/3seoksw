@@ -13,4 +13,10 @@ I'm WooSeok, and am a computer science student from <img src="https://cdn-icons-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-CC333C?style=for-the-badge&logo=java)
 
+
+<h2>CS Blog that I'm running</h2>
+
+![Click Here]("https://3seoksw.github.io")
+
+
 My name is WooSeok and today is Sunday, 25 September, 14:32 UTC.

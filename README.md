@@ -18,4 +18,4 @@ I'm WooSeok, and am a computer science student from <img src="https://cdn-icons-
 
 [Try Visit My CS Blog!](https://3seoksw.github.io)
 
-My name is WooSeok and today is Sunday, 25 September, 14:32 UTC.
+My name is WooSeok and this post is up to Sunday, 25 September, 14:32 UTC.

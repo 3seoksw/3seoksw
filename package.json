@@ -1,0 +1,27 @@
+{
+  "name": "3seoksw",
+  "version": "1.0.0",
+  "description": "github-profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3seoksw/3seoksw.git"
+  },
+  "keywords": [
+    "auto-updating-github-profile"
+  ],
+  "author": "KWS, Thomas Guibert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3seoksw/3seoksw/issues"
+  },
+  "homepage": "https://github.com/3seoksw/3seoksw#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}

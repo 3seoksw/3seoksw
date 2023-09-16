@@ -19,9 +19,9 @@ const WooSeok = {
 
 <p align="center">
     <img src="http://openweathermap.org/img/wn/10d@2x.png"/>
-    <p align="center">In Seoul, it is currently <b><i>light rain</i></b><br>
+    <p align="center">In Seoul, it is currently <b><i>moderate rain</i></b><br>
     with a temperature of</p>
-    <div align="center" style="font-size: 25px"><b>26.67°C</b></div>
+    <div align="center" style="font-size: 25px"><b>24.75°C</b></div>
 </p>
 
 <h2>Currently Studying...</h2>
@@ -41,4 +41,4 @@ const WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Saturday, 16 September, 15:07 GMT+9.</p>
+<p align="center">As of, Saturday, 16 September, 18:03 GMT+9.</p>

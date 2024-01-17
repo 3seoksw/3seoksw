@@ -41,4 +41,4 @@ const WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Thursday, 18 January, 03:08 GMT+9.</p>
+<p align="center">As of, Thursday, 18 January, 06:06 GMT+9.</p>

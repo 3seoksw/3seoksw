@@ -1,7 +1,7 @@
 <h1>Hello World!</h1>
 
 <p>Hey, what's up! </br>
-I'm a computer science student studying ML! I'm interested in **Reinforcement Learning (RL)** and **Uncertainty Quantification (UQ)**.</p>
+I'm a computer science student studying ML! I'm interested in <b>Reinforcement Learning (RL)</b> and <b>Uncertainty Quantification (UQ)</b>.</p>
 
 ```python
 WooSeok = {
@@ -21,7 +21,7 @@ WooSeok = {
     <img src="http://openweathermap.org/img/wn/01n@2x.png"/>
     <p align="center">In Seoul, it is currently <b><i>clear sky</i></b><br>
     with a temperature of</p>
-    <div align="center" style="font-size: 25px"><b>-5.34°C</b></div>
+    <div align="center" style="font-size: 25px"><b>-7.81°C</b></div>
 </p>
 
 <h2>Currently Studying...</h2>
@@ -41,4 +41,4 @@ WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Wednesday, 24 January, 21:12 GMT+9.</p>
+<p align="center">As of, Thursday, 25 January, 00:07 GMT+9.</p>

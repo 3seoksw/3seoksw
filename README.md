@@ -1,27 +1,27 @@
 <h1>Hello World!</h1>
 
 <p>Hey, what's up! </br>
-I'm a computer science student and recently studying ML!</p>
+I'm a computer science student studying ML! I'm interested in **Reinforcement Learning (RL)** and **Uncertainty Quantification (UQ)**.</p>
 
-```javascript
-const WooSeok = {
-        name: "WooSeok Kim",
-        POB: "Seoul, Korea 🇰🇷",
-        position: {
-                title: "Student",
-                institution: "SangMyung University",
-                year: "Junior",
-                major: "Computer Science"
-        },
-        location: "Seoul, Korea🇰🇷"
+```python
+WooSeok = {
+  name: "WooSeok Kim",
+  POB: "Seoul, Korea 🇰🇷",
+  position: {
+    title: "Student",
+    institution: "SangMyung University",
+    year: "Junior",
+    major: "Computer Science"
+  },
+  location: "Seoul, Korea🇰🇷"
 }
 ```
 
 <p align="center">
-    <img src="http://openweathermap.org/img/wn/01d@2x.png"/>
+    <img src="http://openweathermap.org/img/wn/01n@2x.png"/>
     <p align="center">In Seoul, it is currently <b><i>clear sky</i></b><br>
     with a temperature of</p>
-    <div align="center" style="font-size: 25px"><b>-4.04°C</b></div>
+    <div align="center" style="font-size: 25px"><b>-5.04°C</b></div>
 </p>
 
 <h2>Currently Studying...</h2>
@@ -37,8 +37,8 @@ const WooSeok = {
 
 <h2>CS Blog that I'm running</h2>
 
-[Try Visit My CS Blog!](https://3seoksw.github.io)
+[Try visit my CS blog!](https://3seoksw.github.io)
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Wednesday, 24 January, 15:09 GMT+9.</p>
+<p align="center">As of, Wednesday, 24 January, 18:06 GMT+9.</p>

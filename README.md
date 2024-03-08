@@ -5,23 +5,23 @@ I'm a computer science student studying ML! I'm interested in <b>Reinforcement L
 
 ```python
 WooSeok = {
-  name: "WooSeok Kim",
-  POB: "Seoul, Korea 🇰🇷",
-  position: {
-    title: "Student",
-    institution: "SangMyung University",
-    year: "Junior",
-    major: "Computer Science"
-  },
-  location: "Seoul, Korea🇰🇷"
+    name: "WooSeok Kim",
+    POB: "Seoul, Korea 🇰🇷",
+    position: {
+        title: "Student",
+        institution: "SangMyung University",
+        year: "Senior",
+        major: "Computer Science"
+    },
+    location: "Seoul, Korea🇰🇷"
 }
 ```
 
 <p align="center">
-    <img src="http://openweathermap.org/img/wn/01d@2x.png"/>
+    <img src="http://openweathermap.org/img/wn/01n@2x.png"/>
     <p align="center">In Seoul, it is currently <b><i>clear sky</i></b><br>
     with a temperature of</p>
-    <div align="center" style="font-size: 25px"><b>5.74°C</b></div>
+    <div align="center" style="font-size: 25px"><b>2.66°C</b></div>
 </p>
 
 <h2>Currently Studying...</h2>
@@ -41,4 +41,4 @@ WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Friday, 8 March, 18:06 GMT+9.</p>
+<p align="center">As of, Friday, 8 March, 21:10 GMT+9.</p>

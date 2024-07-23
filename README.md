@@ -18,10 +18,10 @@ WooSeok = {
 ```
 
 <p align="center">
-    <img src="http://openweathermap.org/img/wn/10d@2x.png"/>
-    <p align="center">In Seoul, it is currently <b><i>moderate rain</i></b><br>
+    <img src="http://openweathermap.org/img/wn/04d@2x.png"/>
+    <p align="center">In Seoul, it is currently <b><i>overcast clouds</i></b><br>
     with a temperature of</p>
-    <div align="center" style="font-size: 25px"><b>27.66°C</b></div>
+    <div align="center" style="font-size: 25px"><b>27.74°C</b></div>
 </p>
 
 <h2>Currently Studying...</h2>
@@ -37,10 +37,18 @@ WooSeok = {
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E)
 ![Lua](https://img.shields.io/badge/-Lua-070078?style=for-the-badge&logo=lua)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/3seoksw?pet-id=603463024057476504"
+    width="1000"
+    height="120"
+  />
+</a>
+
 <h2>CS Blog that I'm running</h2>
 
 [Try visit my CS blog!](https://3seoksw.github.io)
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Tuesday, 23 July, 12:08 GMT+9.</p>
+<p align="center">As of, Tuesday, 23 July, 15:10 GMT+9.</p>

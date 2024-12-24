@@ -45,4 +45,4 @@ WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Tuesday, 24 December, 21:15 GMT+9.</p>
+<p align="center">As of, Wednesday, 25 December, 00:07 GMT+9.</p>

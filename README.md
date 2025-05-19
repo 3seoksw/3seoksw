@@ -21,7 +21,7 @@ WooSeok = {
     <img src="http://openweathermap.org/img/wn/04d@2x.png"/>
     <p align="center">In Seoul, it is currently <b><i>broken clouds</i></b><br>
     with a temperature of</p>
-    <div align="center" style="font-size: 25px"><b>19.76°C</b></div>
+    <div align="center" style="font-size: 25px"><b>17.76°C</b></div>
 </p>
 
 <h2>Currently Studying...</h2>
@@ -45,4 +45,4 @@ WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Monday, 19 May, 15:15 GMT+9.</p>
+<p align="center">As of, Monday, 19 May, 18:11 GMT+9.</p>

@@ -7,13 +7,17 @@ I'm a computer science student studying machine learning! I'm interested in <b>D
 WooSeok = {
     "name": "WooSeok Kim",
     "POB": "Seoul, Korea 🇰🇷",
-    "position": {
-        "title": ["Student", "Undergraduate Research Intern"],
-        "institution": "SangMyung University",
-        "year": "Senior",
-        "major": "Computer Science"
+    "current": {
+        "title": ["Student", "Research Assistant"],
+        "institution": "Carleton University",
+        "major": "Computer Science (Data Science)"
     },
-    "location": "Seoul, Korea🇰🇷"
+    "education": {
+      "school": "SangMyung University",
+      "title": "B.S.",
+      "major": "Computer Science"
+    },
+    "location": ["Ottawa, Canada 🇨🇦", Seoul, Korea🇰🇷"]
 }
 ```
 
@@ -45,4 +49,4 @@ WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Monday, 2 June, 00:08 GMT+9.</p>
+<p align="center">As of, Monday, 2 June, 03:12 GMT+9.</p>

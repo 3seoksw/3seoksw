@@ -14,7 +14,8 @@ let DATA = {
     hour: "numeric",
     minute: "numeric",
     timeZoneName: "short",
-    timeZone: "Asia/Seoul",
+    timeZone: "America/Toronto",
+    // timeZone: "Asia/Seoul",
   }),
 };
 
@@ -25,7 +26,7 @@ async function getWeatherInfo() {
   await fetch(url)
     .then((response) => response.json())
     .then((data) => {
-      DATA.city = "Seoul";
+      DATA.city = "Ottawa";
       DATA.temperature = data.main.temp;
       DATA.temp_min = data.main.temp_min;
       DATA.temp_max = data.main.temp_max;

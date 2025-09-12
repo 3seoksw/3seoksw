@@ -20,7 +20,7 @@ let DATA = {
 };
 
 async function getWeatherInfo() {
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=seoul&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?id=4924493&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`;
   console.log(process.env.OPEN_WEATHER_MAP_KEY);
   console.log(url);
   await fetch(url)

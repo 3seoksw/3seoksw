@@ -25,7 +25,7 @@ WooSeok = {
     <img src="http://openweathermap.org/img/wn/01n@2x.png"/>
     <p align="center">In Ottawa, it is currently <b><i>clear sky</i></b><br>
     with a temperature of</p>
-    <div align="center" style="font-size: 25px"><b>12.73°C</b></div>
+    <div align="center" style="font-size: 25px"><b>14.11°C</b></div>
 </p>
 
 <h2>Currently Studying...</h2>
@@ -49,4 +49,4 @@ WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Saturday, 15 November, 01:13 GMT-5.</p>
+<p align="center">As of, Saturday, 15 November, 04:09 GMT-5.</p>

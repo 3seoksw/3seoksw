@@ -6,18 +6,26 @@ I'm a computer science student studying machine learning! I'm interested in <b>D
 ```python
 WooSeok = {
     "name": "WooSeok Kim",
-    "POB": "Seoul, Korea 🇰🇷",
-    "current": {
-        "title": ["Grad Student", "Research Assistant"],
-        "institution": "Carleton University",
-        "major": "Computer Science (Data Science)"
-    },
-    "education": {
-      "school": "SangMyung University",
-      "title": "B.S.",
-      "major": "Computer Science"
-    },
-    "location": ["Ottawa, Canada 🇨🇦", "Seoul, South Korea 🇰🇷"]
+    "location": "Ottawa, Canada 🇨🇦"
+    "current": [
+      {
+        "title": ["Intern", "Associate Data Engineer"],
+        "institution": "Revolution Data Platforms",
+      },
+    ],
+    "education": [
+      {
+        "school": "Carleton University",
+        "title": ["M.S.", "Research Assistant"],
+        "institution": iML
+        "major": "Computer Science (Data Science Specialization)"
+      },
+      {
+        "school": "SangMyung University",
+        "title": "B.S.",
+        "major": "Computer Science"
+      }
+    ],
 }
 ```
 
@@ -25,7 +33,7 @@ WooSeok = {
     <img src="http://openweathermap.org/img/wn/04d@2x.png"/>
     <p align="center">In Ottawa, it is currently <b><i>broken clouds</i></b><br>
     with a temperature of</p>
-    <div align="center" style="font-size: 25px"><b>28.17°C</b></div>
+    <div align="center" style="font-size: 25px"><b>28.97°C</b></div>
 </p>
 
 <h2>Currently Studying...</h2>
@@ -49,4 +57,4 @@ WooSeok = {
 
 ---
 <p align="center">This README.md file is updated every <b>3</b> hours.</p>
-<p align="center">As of, Thursday, 4 June, 13:36 GMT-4.</p>
+<p align="center">As of, Thursday, 4 June, 15:51 GMT-4.</p>
